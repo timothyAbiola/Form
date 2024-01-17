@@ -1,0 +1,7 @@
+*{
+  margin: 5px;
+}
+.dis{
+  display: flex;
+  gap: 10px;
+}
